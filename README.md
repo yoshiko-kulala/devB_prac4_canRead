@@ -1,0 +1,3 @@
+# devB_prac4_canRead
+
+CAN回してデータ読んでタイマ割り込みでprintfしたンゴ
